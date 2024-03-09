@@ -1,0 +1,2 @@
+tempsensor.c:2:6:TempSensor_Init	0	static
+tempsensor.c:7:9:TempSensor_Get	8	static

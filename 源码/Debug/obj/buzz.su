@@ -1,0 +1,3 @@
+buzz.c:3:6:Buzz_Init	8	static
+buzz.c:7:6:Buzz_On	8	static
+buzz.c:12:6:Buzz_Off	8	static

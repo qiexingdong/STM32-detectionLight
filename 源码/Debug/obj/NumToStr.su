@@ -1,0 +1,8 @@
+NumToStr.c:30:13:NumStr_putc	8	static
+NumToStr.c:136:12:NumStr_mknumstr	8	static
+NumToStr.c:190:13:NumStr_pad_zero	24	static
+NumToStr.c:200:13:NumStr_pad_space	24	static
+NumToStr.c:19:6:return_char	16	static
+NumToStr.c:54:5:NumStr_mkfloatstr	136	static
+NumToStr.c:216:5:NumStr	128	static
+NumToStr.c:680:7:NumToStr	24	static

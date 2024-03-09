@@ -1,0 +1,2 @@
+lightsensor.c:3:6:LightSensor_Init	8	static
+lightsensor.c:9:9:LightSensor_Get	8	static

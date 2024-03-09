@@ -1,0 +1,5 @@
+light.c:4:6:Light_Init	8	static
+light.c:9:6:Light_1_On	8	static
+light.c:13:6:Light_1_Off	8	static
+light.c:17:6:Light_2_On	8	static
+light.c:21:6:Light_2_Off	8	static
